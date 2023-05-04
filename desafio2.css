@@ -134,7 +134,11 @@ p {
   .image {
     width: 312px;
     height: 288px;
-    margin-left: 44px;
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    right: 0;
+    margin: auto;
   }
 
 
